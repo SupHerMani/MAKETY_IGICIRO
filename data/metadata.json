@@ -1,0 +1,47 @@
+{
+ "iso2": "MG",
+ "iso3": "MDG",
+ "name_en": "Madagascar",
+ "name_fr": "Madagascar",
+ "currency": "MGA",
+ "symbol": "Ar",
+ "languages": [
+  "mg",
+  "fr"
+ ],
+ "brand": "AfDB – Data Innovation for Africa (DI4A)",
+ "version": "2.0.0",
+ "generated": "2026-10-30T01:14Z",
+ "frequency": "D",
+ "periods": [
+  "2026-10-29",
+  "2026-10-30"
+ ],
+ "weights_status": "equal",
+ "weights_source": "Not found online (two review passes, 2026-10-28). INSTAT's NIPC (base 100 = 2016 average, 12 COICOP 1999 functions) shows a 'Pondération' column on its database page only for Ensemble 10 000,00 / Riz 1 785,44 / Non Riz 8 214,56 / Produits locaux 8 572,86; the function weights are presumably in the monthly NIPC Excel file, which the review tools could not read. Only partial statements were found: food and non-alcoholic beverages 'more than half' of the basket and rice 'nearly 18 %' (Newsmada, 3/12/2025, citing INSTAT). The 10-function weights printed in the 2017-2018 NIPC bulletins (e.g. INSTAT_NIPC_Jan2018: food, drinks and tobacco 5058 / 10 000) belong to the former base-2000 index and are not used. Deepening pass (28/10/2026, 12 searches): the database page and the March 2026 release page were re-read (no download besides INSTAT_NIPC-Mars-2026.xlsx, which the review fetcher returns as binary); TBE n°62 (April 2026) has only branch weights (Tableau 8) and NIPC changes (Tableaux 15-16); the IPC Antananarivo May 2022 PDF has contributions, not weights; the December 2018 NIPC PDF again shows base-2000 weights; searches of IMF country reports and AFRITAC South technical-assistance reports (2024 reports found concern Botswana, Seychelles, Marshall Islands), the central bank and ILO CPI descriptions found no base-2016 table. To be supplied by INSTAT (DSCVM) and mapped COICOP 1999 → 2018.",
+ "weights_url": "https://www.instat.mg/statistiques/bases-de-donnees/nipc/nipc_2016",
+ "basket_share": null,
+ "demo": false,
+ "excluded_natures": [
+  "rent_ask"
+ ],
+ "title_en": "Experimental consumer price index",
+ "title_fr": "Indice expérimental des prix à la consommation",
+ "capital": {
+  "name": "Antananarivo",
+  "lat": -18.8792,
+  "lon": 47.5079
+ },
+ "kpi": {
+  "index": 100.0,
+  "change": 0.0,
+  "cumulative": 0.0,
+  "period": "2026-10-30",
+  "first_period": "2026-10-29",
+  "observations": 662,
+  "items": 338,
+  "sources": 12,
+  "divisions": 9,
+  "matched": 324
+ }
+}
