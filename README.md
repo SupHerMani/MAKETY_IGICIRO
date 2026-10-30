@@ -16,8 +16,8 @@
 | Last period change | +0.00 % |
 | Window | 2026-10-29 → 2026-10-30 · by collection date |
 | Data | 662 observations · 338 items · 12 sources |
-| COICOP divisions measured | 9 / 13 |
-| Weights | not supplied — divisions weighted equally — Not found online (two review passes, 2026-10-28). INSTAT's NIPC (base 100 = 2016 average, 12 COICOP 1999 functions) shows a 'Pondération' co |
+| COICOP divisions measured | 8 / 13 |
+| Weights | official — Not found online (two review passes, 2026-10-28). INSTAT's NIPC (base 100 = 2016 average, 12 COICOP 1999 functions) shows a 'Pondération' co |
 | Currency | MGA (Ar) |
 
 > [!IMPORTANT]
@@ -31,7 +31,7 @@
 |---|---|---|
 | 🟠 Low | Between 2026-10-29 and 2026-10-30, the experimental index moved by +0.0 % (2 periods, 338 items). | Collection dates within a single month: a short-term movement, not yet a monthly trend. |
 | 🟡 Medium | Over the last period, the largest contribution comes from division 13 (Personal care, social protection and miscellaneous): +0.00 percentage point. | Contributions add up exactly to the change of the all-items index. |
-| 🟠 Low | Divisions are weighted equally: no official weights were supplied. | The index is a trend indicator, not comparable to the national CPI. |
+| 🟡 Medium | The divisions measured weigh 92 % of the official basket. | Being reached is not being represented: a group can be followed through a few online items far from its official varieties. Unmeasured groups are imputed by the measured ones. |
 | 🟡 Medium | Sampling of items: the latest index lies between 100.0 and 100.0 in 90 % of 100 bootstrap replications. | The interval covers which items were collected, not the bias of online prices against shop prices. |
 
 ## By COICOP division
@@ -51,7 +51,7 @@
 | 09 | Recreation, sport and culture | — | — | imputed | — |
 | 10 | Education services | — | 1 | 0.00 | 0.000 |
 | 11 | Restaurants and accommodation services | — | — | imputed | — |
-| 12 | Insurance and financial services | — | 14 | 0.00 | 0.000 |
+| 12 | Insurance and financial services | — | 14 | 0.00 | — |
 | 13 | Personal care, social protection and miscellaneous | — | 109 | 0.00 | 0.000 |
 
 *Imputed*: no price was read for the division; it moves with the measured ones (CPI Manual 2020, ch. 6).

@@ -16,8 +16,8 @@
 | Variation de la dernière période | +0,00 % |
 | Fenêtre | 2026-10-29 → 2026-10-30 · par date de collecte |
 | Données | 662 relevés · 338 articles · 12 sources |
-| Divisions COICOP mesurées | 9 / 13 |
-| Pondérations | non fournies — divisions pondérées également — Not found online (two review passes, 2026-10-28). INSTAT's NIPC (base 100 = 2016 average, 12 COICOP 1999 functions) shows a 'Pondération' co |
+| Divisions COICOP mesurées | 8 / 13 |
+| Pondérations | officielles — Not found online (two review passes, 2026-10-28). INSTAT's NIPC (base 100 = 2016 average, 12 COICOP 1999 functions) shows a 'Pondération' co |
 | Devise | MGA (Ar) |
 
 > [!IMPORTANT]
@@ -31,7 +31,7 @@
 |---|---|---|
 | 🟠 Faible | Entre 2026-10-29 et 2026-10-30, l'indice expérimental a varié de +0,0 % (2 périodes, 338 articles). | Des dates de collecte dans un seul mois : un mouvement de court terme, pas encore une tendance mensuelle. |
 | 🟡 Moyenne | Sur la dernière période, la plus forte contribution vient de la division 13 (Soins personnels, protection sociale et divers) : +0,00 point de pourcentage. | Les contributions s'additionnent exactement à la variation de l'indice d'ensemble. |
-| 🟠 Faible | Les divisions sont pondérées également : aucune pondération officielle n'a été fournie. | L'indice est un indicateur de tendance, non comparable à l'IPC national. |
+| 🟡 Moyenne | Les divisions mesurées pèsent 92 % du panier officiel. | Être atteint n'est pas être représenté : un groupe peut être suivi par quelques articles en ligne éloignés de ses variétés officielles. Les groupes non mesurés sont imputés par ceux qui le sont. |
 | 🟡 Moyenne | Échantillonnage des articles : le dernier indice se situe entre 100,0 et 100,0 dans 90 % de 100 réplications bootstrap. | L'intervalle couvre le choix des articles collectés, pas le biais des prix en ligne face aux prix en magasin. |
 
 ## Par division COICOP
@@ -51,7 +51,7 @@
 | 09 | Loisirs, sports et culture | — | — | imputée | — |
 | 10 | Services d'enseignement | — | 1 | 0,00 | 0,000 |
 | 11 | Restaurants et services d'hébergement | — | — | imputée | — |
-| 12 | Assurances et services financiers | — | 14 | 0,00 | 0,000 |
+| 12 | Assurances et services financiers | — | 14 | 0,00 | — |
 | 13 | Soins personnels, protection sociale et divers | — | 109 | 0,00 | 0,000 |
 
 *Imputée* : aucun prix lu pour la division ; elle évolue comme les divisions mesurées (Manuel de l'IPC 2020, ch. 6).

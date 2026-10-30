@@ -10,5 +10,5 @@ division,label_en,label_fr,weight_pct,items,sources,index_last,change_pct,contri
 09,"Recreation, sport and culture","Loisirs, sports et culture",,0,0,,,,False
 10,Education services,Services d'enseignement,,1,1,100.0,0.0,0.0,True
 11,Restaurants and accommodation services,Restaurants et services d'hébergement,,0,0,,,,False
-12,Insurance and financial services,Assurances et services financiers,,14,3,100.0,0.0,0.0,True
+12,Insurance and financial services,Assurances et services financiers,,14,3,100.0,0.0,,True
 13,"Personal care, social protection and miscellaneous","Soins personnels, protection sociale et divers",,109,1,100.0,0.0,0.0,True
